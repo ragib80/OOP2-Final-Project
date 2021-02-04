@@ -1,0 +1,81 @@
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System_ragb.csprojAssemblyReference.cache
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.AddAdmin.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.AddManager.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.AdminHome.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.CRUDStaffDashBoard.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.FoodCart.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.HomePage.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.InventoryDashboard.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.LoginForm.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.ManagerDashboard.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.Manager.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.ManagerLogin.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.RegistrationForm.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.StaffDashBoardcs.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.StaffLogin.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.UpdateDashboard.resources
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System_ragb.csproj.GenerateResource.cache
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System_ragb.csproj.CoreCompileInputs.cache
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.exe
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.pdb
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.exe.config
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.exe
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.pdb
+G:\Ragib\combine Project\Combining 6-1-21\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.CrudFoodMenu.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.exe.config
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.exe
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System_ragb.csprojAssemblyReference.cache
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.AddAdmin.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.AddManager.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.AdminHome.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.CrudFoodMenu.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.CRUDStaffDashBoard.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.FoodCart.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.HomePage.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.InventoryDashboard.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.LoginForm.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.ManagerDashboard.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.Manager.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.ManagerLogin.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.RegistrationForm.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.StaffDashBoardcs.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.StaffLogin.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.UpdateDashboard.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System_ragb.csproj.GenerateResource.cache
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System_ragb.csproj.CoreCompileInputs.cache
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.exe
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.pdb
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.pdb
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Controllers.UserHomepage.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Controllers.UserLoginForm.resources
+G:\Ragib\combine Project\combainig With pIU\Ragib\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Controllers.UserRegistrationForm.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.exe.config
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.exe
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.pdb
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System_ragb.csprojAssemblyReference.cache
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.AddAdmin.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.AddManager.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.AdminHome.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.CrudFoodMenu.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.CRUDStaffDashBoard.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.FoodCart.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.HomePage.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.InventoryDashboard.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.LoginForm.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.ManagerDashboard.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.Manager.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.ManagerLogin.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.RegistrationForm.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.StaffDashBoardcs.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.StaffLogin.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Views.UpdateDashboard.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Controllers.UserHomepage.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Controllers.UserLoginForm.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Controllers.UserRegistrationForm.resources
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System_ragb.csproj.GenerateResource.cache
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System_ragb.csproj.CoreCompileInputs.cache
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.exe
+G:\Ragib\combine Project\Final Complete Project\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.pdb
